@@ -1,0 +1,15 @@
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\bin\Debug\net6.0\03-MediumSalary.exe
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\bin\Debug\net6.0\03-MediumSalary.deps.json
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\bin\Debug\net6.0\03-MediumSalary.runtimeconfig.json
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\bin\Debug\net6.0\03-MediumSalary.dll
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\bin\Debug\net6.0\03-MediumSalary.pdb
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\03-MediumSalary.csproj.AssemblyReference.cache
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\03-MediumSalary.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\03-MediumSalary.AssemblyInfoInputs.cache
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\03-MediumSalary.AssemblyInfo.cs
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\03-MediumSalary.csproj.CoreCompileInputs.cache
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\03-MediumSalary.dll
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\refint\03-MediumSalary.dll
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\03-MediumSalary.pdb
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\03-MediumSalary.genruntimeconfig.cache
+D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\03-MediumSalary\03-MediumSalary\obj\Debug\net6.0\ref\03-MediumSalary.dll
