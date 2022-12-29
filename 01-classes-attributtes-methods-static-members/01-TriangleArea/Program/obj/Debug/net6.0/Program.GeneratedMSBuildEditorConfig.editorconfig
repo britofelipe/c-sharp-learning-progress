@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Program
-build_property.ProjectDir = D:\workspace\visual-studio\Program\Program\
+build_property.ProjectDir = D:\workspace\visual-studio\01-classes-attributtes-methods-static-members\01-TriangleArea\Program\

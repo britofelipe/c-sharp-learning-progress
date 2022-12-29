@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q6myR/lx8K6aiSmp/X4rKx5TtA0j4muKeo5WMgzrUNeBQ2PVBcQyrDvJWDmu9CMFP4AhxcEGbhHjWxz5PtnYEg==",
+  "dgSpecHash": "lw/bw2xiUd0i2PWr6Y9uV/lMWK3enxSC1zqeei8zo6zfbFKGPg3XgLLUGk55geonIk8cFAkEXn8O/e+MF4cudg==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\visual-studio\\Program\\Program\\Program.csproj",
+  "projectFilePath": "D:\\workspace\\visual-studio\\01-classes-attributtes-methods-static-members\\01-TriangleArea\\Program\\Program.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

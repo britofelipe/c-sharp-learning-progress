@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\visual-studio\\Program\\Program\\Program.csproj": {}
+    "D:\\workspace\\visual-studio\\01-classes-attributtes-methods-static-members\\01-TriangleArea\\Program\\Program.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\visual-studio\\Program\\Program\\Program.csproj": {
+    "D:\\workspace\\visual-studio\\01-classes-attributtes-methods-static-members\\01-TriangleArea\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\visual-studio\\Program\\Program\\Program.csproj",
+        "projectUniqueName": "D:\\workspace\\visual-studio\\01-classes-attributtes-methods-static-members\\01-TriangleArea\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "D:\\workspace\\visual-studio\\Program\\Program\\Program.csproj",
+        "projectPath": "D:\\workspace\\visual-studio\\01-classes-attributtes-methods-static-members\\01-TriangleArea\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\The Brito\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\visual-studio\\Program\\Program\\obj\\",
+        "outputPath": "D:\\workspace\\visual-studio\\01-classes-attributtes-methods-static-members\\01-TriangleArea\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\The Brito\\AppData\\Roaming\\NuGet\\NuGet.Config",

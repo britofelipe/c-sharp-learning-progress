@@ -54,11 +54,8 @@ namespace Course
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            p = (x.A + x.B + x.C) / 2.0;
-            x.area = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-            p = (yA + yB + yC) / 2.0;
-            y.area = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            x.area = x.Area();
+            y.area = y.Area();
 
             Console.WriteLine("Area of the Triangle X: " + x.area.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Area of the Triangle Y: " + y.area.ToString("F4", CultureInfo.InvariantCulture));

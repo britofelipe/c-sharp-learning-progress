@@ -31,5 +31,5 @@ namespace _03_MediumSalary
 
             Console.WriteLine("Mean salary: " + ((worker1.salary + worker2.salary)/2) + "$");
         }
-    }
+    }d
 }
