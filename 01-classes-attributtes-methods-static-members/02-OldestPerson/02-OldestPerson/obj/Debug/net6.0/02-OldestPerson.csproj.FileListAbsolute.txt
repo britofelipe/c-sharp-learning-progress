@@ -1,0 +1,15 @@
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\bin\Debug\net6.0\02-OldestPerson.exe
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\bin\Debug\net6.0\02-OldestPerson.deps.json
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\bin\Debug\net6.0\02-OldestPerson.runtimeconfig.json
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\bin\Debug\net6.0\02-OldestPerson.dll
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\bin\Debug\net6.0\02-OldestPerson.pdb
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\02-OldestPerson.csproj.AssemblyReference.cache
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\02-OldestPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\02-OldestPerson.AssemblyInfoInputs.cache
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\02-OldestPerson.AssemblyInfo.cs
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\02-OldestPerson.csproj.CoreCompileInputs.cache
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\02-OldestPerson.dll
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\refint\02-OldestPerson.dll
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\02-OldestPerson.pdb
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\02-OldestPerson.genruntimeconfig.cache
+D:\workspace\visual-studio\02-OldestPerson\02-OldestPerson\obj\Debug\net6.0\ref\02-OldestPerson.dll
