@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\bin\Debug\net6.0\04-Rectangle.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\bin\Debug\net6.0\04-Rectangle.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\bin\Debug\net6.0\04-Rectangle.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\bin\Debug\net6.0\04-Rectangle.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\bin\Debug\net6.0\04-Rectangle.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\04-Rectangle.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\04-Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\04-Rectangle.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\04-Rectangle.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\04-Rectangle.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\04-Rectangle.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\refint\04-Rectangle.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\04-Rectangle.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\04-Rectangle.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\04-Rectangle\04-Rectangle\obj\Debug\net6.0\ref\04-Rectangle.dll
