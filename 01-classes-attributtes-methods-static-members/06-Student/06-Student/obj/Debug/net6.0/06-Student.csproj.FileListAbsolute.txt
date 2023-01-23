@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\06-Student.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\06-Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\06-Student.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\06-Student.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\06-Student.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\bin\Debug\net6.0\06-Student.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\bin\Debug\net6.0\06-Student.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\bin\Debug\net6.0\06-Student.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\bin\Debug\net6.0\06-Student.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\bin\Debug\net6.0\06-Student.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\06-Student.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\refint\06-Student.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\06-Student.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\06-Student.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\06-Student\06-Student\obj\Debug\net6.0\ref\06-Student.dll
