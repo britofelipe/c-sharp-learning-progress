@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\bin\Debug\net6.0\05-Worker.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\bin\Debug\net6.0\05-Worker.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\bin\Debug\net6.0\05-Worker.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\bin\Debug\net6.0\05-Worker.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\bin\Debug\net6.0\05-Worker.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\05-Worker.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\05-Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\05-Worker.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\05-Worker.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\05-Worker.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\05-Worker.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\refint\05-Worker.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\05-Worker.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\05-Worker.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\05-Worker\05-Worker\obj\Debug\net6.0\ref\05-Worker.dll
