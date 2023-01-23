@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\bin\Debug\net6.0\Dollar.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\bin\Debug\net6.0\Dollar.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\bin\Debug\net6.0\Dollar.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\bin\Debug\net6.0\Dollar.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\bin\Debug\net6.0\Dollar.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\Dollar.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\Dollar.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\Dollar.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\Dollar.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\Dollar.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\Dollar.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\refint\Dollar.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\Dollar.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\Dollar.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\01-classes-attributtes-methods-static-members\Dollar\Dollar\obj\Debug\net6.0\ref\Dollar.dll
