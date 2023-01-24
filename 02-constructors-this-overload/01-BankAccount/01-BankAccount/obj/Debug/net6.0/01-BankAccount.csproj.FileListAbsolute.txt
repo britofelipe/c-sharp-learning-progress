@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\bin\Debug\net6.0\01-BankAccount.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\bin\Debug\net6.0\01-BankAccount.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\bin\Debug\net6.0\01-BankAccount.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\bin\Debug\net6.0\01-BankAccount.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\bin\Debug\net6.0\01-BankAccount.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\01-BankAccount.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\01-BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\01-BankAccount.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\01-BankAccount.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\01-BankAccount.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\01-BankAccount.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\refint\01-BankAccount.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\01-BankAccount.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\01-BankAccount.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\02-constructors-this-overload\01-BankAccount\01-BankAccount\obj\Debug\net6.0\ref\01-BankAccount.dll
