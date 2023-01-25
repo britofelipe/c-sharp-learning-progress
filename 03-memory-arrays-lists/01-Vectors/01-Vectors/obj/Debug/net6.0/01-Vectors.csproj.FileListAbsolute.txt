@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\bin\Debug\net6.0\01-Vectors.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\bin\Debug\net6.0\01-Vectors.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\bin\Debug\net6.0\01-Vectors.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\bin\Debug\net6.0\01-Vectors.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\bin\Debug\net6.0\01-Vectors.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\01-Vectors.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\01-Vectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\01-Vectors.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\01-Vectors.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\01-Vectors.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\01-Vectors.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\refint\01-Vectors.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\01-Vectors.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\01-Vectors.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\01-Vectors\01-Vectors\obj\Debug\net6.0\ref\01-Vectors.dll

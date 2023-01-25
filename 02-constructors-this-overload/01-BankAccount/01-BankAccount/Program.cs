@@ -37,6 +37,7 @@ namespace _01_BankAccount
             double depositAmount = double.Parse(Console.ReadLine() , CultureInfo.InvariantCulture);
             account.Deposit(depositAmount);
 
+            Console.WriteLine();
             Console.WriteLine("Updated account data:");
             Console.WriteLine(account);
 
@@ -46,6 +47,7 @@ namespace _01_BankAccount
             double withdrawAmount = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             account.Withdraw(withdrawAmount);
 
+            Console.WriteLine();
             Console.WriteLine("Updated account data:");
             Console.WriteLine(account);
         }
