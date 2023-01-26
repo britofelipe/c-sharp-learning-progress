@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\bin\Debug\net6.0\03-Matrices1.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\bin\Debug\net6.0\03-Matrices1.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\bin\Debug\net6.0\03-Matrices1.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\bin\Debug\net6.0\03-Matrices1.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\bin\Debug\net6.0\03-Matrices1.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\03-Matrices1.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\03-Matrices1.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\03-Matrices1.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\03-Matrices1.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\03-Matrices1.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\03-Matrices1.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\refint\03-Matrices1.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\03-Matrices1.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\03-Matrices1.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\03-Matrices1\03-Matrices1\obj\Debug\net6.0\ref\03-Matrices1.dll
