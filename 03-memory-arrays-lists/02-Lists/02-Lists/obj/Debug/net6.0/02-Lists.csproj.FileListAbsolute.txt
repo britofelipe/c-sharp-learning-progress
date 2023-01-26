@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\bin\Debug\net6.0\02-Lists.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\bin\Debug\net6.0\02-Lists.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\bin\Debug\net6.0\02-Lists.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\bin\Debug\net6.0\02-Lists.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\bin\Debug\net6.0\02-Lists.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\02-Lists.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\02-Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\02-Lists.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\02-Lists.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\02-Lists.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\02-Lists.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\refint\02-Lists.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\02-Lists.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\02-Lists.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\02-Lists\02-Lists\obj\Debug\net6.0\ref\02-Lists.dll
