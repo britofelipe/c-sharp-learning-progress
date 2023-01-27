@@ -1,0 +1,15 @@
+D:\workspace\visual-studio\Delivery\Delivery\bin\Debug\net6.0\Delivery.exe
+D:\workspace\visual-studio\Delivery\Delivery\bin\Debug\net6.0\Delivery.deps.json
+D:\workspace\visual-studio\Delivery\Delivery\bin\Debug\net6.0\Delivery.runtimeconfig.json
+D:\workspace\visual-studio\Delivery\Delivery\bin\Debug\net6.0\Delivery.dll
+D:\workspace\visual-studio\Delivery\Delivery\bin\Debug\net6.0\Delivery.pdb
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\Delivery.csproj.AssemblyReference.cache
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\Delivery.AssemblyInfoInputs.cache
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\Delivery.AssemblyInfo.cs
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\Delivery.csproj.CoreCompileInputs.cache
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\Delivery.dll
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\refint\Delivery.dll
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\Delivery.pdb
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\Delivery.genruntimeconfig.cache
+D:\workspace\visual-studio\Delivery\Delivery\obj\Debug\net6.0\ref\Delivery.dll
