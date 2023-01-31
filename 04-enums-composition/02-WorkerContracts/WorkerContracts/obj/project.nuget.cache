@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bslrEa0d4LxdzonfCs7dS3KQcK/Kx/YX2lRnmaa4B5W2GtEHZVvI2S3IkCdlTacfq2qA4qa2rtzX8Hz+gybuEA==",
+  "dgSpecHash": "oZO0O/NZwbV0BIJzAHnlJc94I1vUT18cOMWgITAMN6sRUUf3bup8E9KhfR+gbiZWApH9Bmnl3BOnJlx4+wuYXQ==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\03-memory-arrays-lists\\WorkerContracts\\WorkerContracts\\WorkerContracts.csproj",
+  "projectFilePath": "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\04-enums-composition\\02-WorkerContracts\\WorkerContracts\\WorkerContracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

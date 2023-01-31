@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WorkerContracts
-build_property.ProjectDir = D:\workspace\languages\csharp\c-sharp-learning-progress\03-memory-arrays-lists\WorkerContracts\WorkerContracts\
+build_property.ProjectDir = D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\

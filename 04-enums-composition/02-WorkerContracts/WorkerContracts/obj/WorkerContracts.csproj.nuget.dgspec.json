@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\03-memory-arrays-lists\\WorkerContracts\\WorkerContracts\\WorkerContracts.csproj": {}
+    "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\04-enums-composition\\02-WorkerContracts\\WorkerContracts\\WorkerContracts.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\03-memory-arrays-lists\\WorkerContracts\\WorkerContracts\\WorkerContracts.csproj": {
+    "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\04-enums-composition\\02-WorkerContracts\\WorkerContracts\\WorkerContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\03-memory-arrays-lists\\WorkerContracts\\WorkerContracts\\WorkerContracts.csproj",
+        "projectUniqueName": "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\04-enums-composition\\02-WorkerContracts\\WorkerContracts\\WorkerContracts.csproj",
         "projectName": "WorkerContracts",
-        "projectPath": "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\03-memory-arrays-lists\\WorkerContracts\\WorkerContracts\\WorkerContracts.csproj",
+        "projectPath": "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\04-enums-composition\\02-WorkerContracts\\WorkerContracts\\WorkerContracts.csproj",
         "packagesPath": "C:\\Users\\The Brito\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\03-memory-arrays-lists\\WorkerContracts\\WorkerContracts\\obj\\",
+        "outputPath": "D:\\workspace\\languages\\csharp\\c-sharp-learning-progress\\04-enums-composition\\02-WorkerContracts\\WorkerContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\The Brito\\AppData\\Roaming\\NuGet\\NuGet.Config",

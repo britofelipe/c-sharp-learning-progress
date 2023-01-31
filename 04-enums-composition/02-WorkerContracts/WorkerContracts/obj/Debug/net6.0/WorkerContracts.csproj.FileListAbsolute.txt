@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\bin\Debug\net6.0\WorkerContracts.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\bin\Debug\net6.0\WorkerContracts.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\bin\Debug\net6.0\WorkerContracts.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\bin\Debug\net6.0\WorkerContracts.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\bin\Debug\net6.0\WorkerContracts.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\WorkerContracts.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\WorkerContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\WorkerContracts.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\WorkerContracts.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\WorkerContracts.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\WorkerContracts.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\refint\WorkerContracts.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\WorkerContracts.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\WorkerContracts.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\02-WorkerContracts\WorkerContracts\obj\Debug\net6.0\ref\WorkerContracts.dll
