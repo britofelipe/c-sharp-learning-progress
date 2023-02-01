@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\bin\Debug\net6.0\03-Posts.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\bin\Debug\net6.0\03-Posts.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\bin\Debug\net6.0\03-Posts.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\bin\Debug\net6.0\03-Posts.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\bin\Debug\net6.0\03-Posts.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\03-Posts.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\03-Posts.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\03-Posts.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\03-Posts.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\03-Posts.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\03-Posts.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\refint\03-Posts.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\03-Posts.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\03-Posts.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\04-enums-composition\03-Posts\obj\Debug\net6.0\ref\03-Posts.dll
