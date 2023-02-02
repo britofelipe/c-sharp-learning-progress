@@ -1,4 +1,6 @@
-﻿namespace _04_Matrices02
+﻿using System.Globalization;
+
+namespace _04_Matrices02
 {
     internal class Program
     {
@@ -60,3 +62,5 @@
         }
     }
 }
+
+
