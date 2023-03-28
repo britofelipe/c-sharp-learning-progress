@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\bin\Debug\net7.0\01-Outsourced.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\bin\Debug\net7.0\01-Outsourced.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\bin\Debug\net7.0\01-Outsourced.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\bin\Debug\net7.0\01-Outsourced.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\bin\Debug\net7.0\01-Outsourced.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\01-Outsourced.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\01-Outsourced.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\01-Outsourced.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\01-Outsourced.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\01-Outsourced.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\01-Outsourced.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\refint\01-Outsourced.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\01-Outsourced.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\01-Outsourced.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\01-Outsourced\obj\Debug\net7.0\ref\01-Outsourced.dll

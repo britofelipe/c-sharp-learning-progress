@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\bin\Debug\net7.0\Rental.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\bin\Debug\net7.0\Rental.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\bin\Debug\net7.0\Rental.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\bin\Debug\net7.0\Rental.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\bin\Debug\net7.0\Rental.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\Rental.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\Rental.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\Rental.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\Rental.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\Rental.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\Rental.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\refint\Rental.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\Rental.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\Rental.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\08-interfaces\01-Rental\Rental\obj\Debug\net7.0\ref\Rental.dll
