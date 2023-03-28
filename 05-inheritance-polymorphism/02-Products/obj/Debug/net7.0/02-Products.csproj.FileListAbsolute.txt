@@ -1,0 +1,15 @@
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\bin\Debug\net7.0\02-Products.exe
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\bin\Debug\net7.0\02-Products.deps.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\bin\Debug\net7.0\02-Products.runtimeconfig.json
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\bin\Debug\net7.0\02-Products.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\bin\Debug\net7.0\02-Products.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\02-Products.csproj.AssemblyReference.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\02-Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\02-Products.AssemblyInfoInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\02-Products.AssemblyInfo.cs
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\02-Products.csproj.CoreCompileInputs.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\02-Products.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\refint\02-Products.dll
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\02-Products.pdb
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\02-Products.genruntimeconfig.cache
+D:\workspace\languages\csharp\c-sharp-learning-progress\05-inheritance-polymorphism\02-Products\obj\Debug\net7.0\ref\02-Products.dll
